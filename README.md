@@ -18,10 +18,6 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe,
 
 <li> Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos, estou atualmente a procura de um emprego! </li>
 
-<li> Meu maior valor é a Empatia, e o seu? </li>
-
-<li> amo jogar e ler noticias, e os seus hobbies? quais são? </li>
-
 
 <br>
 
