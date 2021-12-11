@@ -1,4 +1,4 @@
-Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe,
+Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atualmente procuro emprego na área.
 
 <!-- <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" > -->
 
@@ -8,16 +8,19 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe,
 <br>
 
 
-<img aling="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/Ao.gif" width="350" />
+<img align="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/Ao.gif" width="350" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Johnnyrubi}.${380019460})
 
+<img align="left" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/7CaK.gif" width="300" />
+
 <li> Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!  </li>
 
-<li> Entendo de JavaScript, MYSQL, MongoDB, Node.JS, conceitos SOLID, API REST, MSC, MVC, utilizei e aprendi muitas outras coisas! </li>
+<li> Amo jogar, e ler notícias, e você quais são seus hobbies?</li>
 
-<li> Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos, estou atualmente a procura de um emprego! </li>
+<li> Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos! </li>
 
+<li> meu gmail é **johnnyrubischreiner@gmail.com** caso queira me contatar!
 
 <br>
 
