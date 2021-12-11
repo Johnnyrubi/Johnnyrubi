@@ -16,13 +16,13 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atu
 <br>
 <br>
 
-💼 Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!
+📚 Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!
 
 💬 Minha área de identificação é Back-end, coloquei alguns projetos como fixos!
 
-🤔 Pretendo aprender mais sobre testes e banco de dados!
+🌱 Pretendo aprender mais sobre testes e banco de dados!
 
-🌱 Amo jogar, ler notícias e você quais são seus hobbies?
+🎮📰 Amo jogar, ler notícias e você quais são seus hobbies?
 
 <br>
 
