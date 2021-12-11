@@ -8,7 +8,7 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe,
 <br>
 
 
-<img aling="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/main/gifs/Ao.gif" width="350" />
+<img aling="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/Ao.gif" width="350" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Johnnyrubi}.${380019460})
 
