@@ -7,28 +7,33 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atu
 <!-- <img alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/main/gifs/rick.gif" width="350" /> -->
 <br>
 
-<img align="left" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/7CaK.gif" width="300" />
+<img align="left" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/7CaK.gif" width="80" />
 
 <img align="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/Ao.gif" width="350" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Johnnyrubi}.${380019460})
 
-<li> Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!  </li>
+<br>
+<br>
 
-<li> Amo jogar, e ler notícias, e você quais são seus hobbies?</li>
+<li> 💼 Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!  </li>
 
-<li> Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos! </li>
+<li> 🌱 Amo jogar, e ler notícias, e você quais são seus hobbies?</li>
+
+<li> 💬 Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos! </li>
 
 <li> meu gmail é **johnnyrubischreiner@gmail.com** caso queira me contatar!
 
+<br>
 <br>
 
 Mande uma mensagem!!!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/johnny-rubi-schreiner/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnnyrubischreiner@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnnyrubischreiner@gmail.com) -->
+  
 
-----
+ ----
 
 ## **Tecnologias e Ferramentas:** 
 
