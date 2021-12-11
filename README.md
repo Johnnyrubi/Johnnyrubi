@@ -22,7 +22,7 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atu
 
 <li> 💬 Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos! </li>
 
-<li> meu gmail é **johnnyrubischreiner@gmail.com** caso queira me contatar!
+<li> meu contato é johnnyrubischreiner@gmail.com, caso queira me contatar!
 
 <br>
 <br>
