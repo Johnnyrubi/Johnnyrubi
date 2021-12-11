@@ -10,7 +10,7 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe,
 
 <img aling="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/main/gifs/Ao.gif">
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=${Johnnyrubi}.${380019460})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Johnnyrubi}.${380019460})
 
 <li> Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!  </li>
 
