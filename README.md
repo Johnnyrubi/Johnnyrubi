@@ -16,18 +16,19 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atu
 <br>
 <br>
 
-<li> 💼 Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!  </li>
+💼 Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe!, me sinto orgulhoso de cada um!
 
-<li> 🌱 Amo jogar, e ler notícias, e você quais são seus hobbies?</li>
+🌱 Amo jogar, e ler notícias, e você quais são seus hobbies?
 
-<li> 💬 Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos! </li>
+💬 Minha area de identificação é Back-end, coloquei alguns projetos como fixos! perdão se estiverem confusos!
 
-<li> meu contato é johnnyrubischreiner@gmail.com, caso queira me contatar!
+🤔 Pretendo aprender mais sobre testes e banco de dados!
 
-<br>
 <br>
 
 Mande uma mensagem!!!
+
+Meu contato é **johnnyrubischreiner@gmail.com**, caso queira me contatar!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/johnny-rubi-schreiner/)
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnnyrubischreiner@gmail.com) -->
