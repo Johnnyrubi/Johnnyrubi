@@ -1,4 +1,4 @@
-Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atualmente procuro emprego na área.
+Olá, sou **Johnny Rubi**, Desenvolvedor de Software Back End.
 
 <!-- <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" > -->
 
@@ -16,17 +16,13 @@ Olá, me chamo **Johnny Rubi**, Estudande de desenvolvimento Web pela Trybe, Atu
 <br>
 <br>
 
-📚 Desenvolvi cerca de 28 projetos em apenas 10 meses na Trybe, tenho orgulho de cada um!
+📚 Desenvolvo APIS RESTfuls com foco em qualidade e boas praticas.
 
-💬 Minha área de identificação é Back-end, coloquei alguns projetos como fixos!
+💬 Minha área de Atuação é Back-end.
 
-🌱 Pretendo aprender mais sobre testes e banco de dados!
-
-🎮📰 Amo jogar e ler notícias e você, quais são seus hobbies?
+🌱 Alguns projetos meus estão em meus repositorios.
 
 <br>
-
-Mande uma mensagem!!!
 
 Meu contato é **johnnyrubischreiner@gmail.com**, caso queira me contatar!
 
