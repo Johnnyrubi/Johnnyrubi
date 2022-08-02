@@ -2,25 +2,11 @@ Olá, sou **Johnny Rubi**, Desenvolvedor de Software Back End.
 
 <!-- <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" > -->
 
-<!-- <img align="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/main/gifs/preview.gif" width="350" /> -->
-
-<!-- <img alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/main/gifs/rick.gif" width="350" /> -->
-<br>
-
-<img align="left" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/7CaK.gif" width="80" />
-
-<img align="right" alt="GIF" src="https://github.com/Johnnyrubi/Johnnyrubi/blob/master/gifs/Ao.gif" width="350" />
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Johnnyrubi}.${380019460})
 
 <br>
 <br>
 
-📚 Desenvolvo APIS RESTfuls com foco em qualidade e boas praticas.
-
-💬 Minha área de Atuação é Back-end.
-
-🌱 Alguns projetos meus estão em meus repositorios.
 
 <br>
 
