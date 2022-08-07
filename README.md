@@ -1,4 +1,4 @@
-Olá, sou **Johnny Rubi**, Desenvolvedor de Software Back End.
+Olá, sou **Johnny Rubi**, Desenvolvedor de Software Full Stack.
 
 <!-- <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" > -->
 
