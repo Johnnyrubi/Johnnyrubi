@@ -104,11 +104,8 @@ Meu contato é **johnnyrubischreiner@gmail.com**, caso queira me contatar!
 
 <br>
 
- <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyrubi&langs_count=4&layout=compact&theme=tokyonight"
-  height="140em"
- />
- <img  
-  src="https://github-readme-stats.vercel.app/api?username=Johnnyrubi&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git Status"  
-  height="140em"
- />
+<div style="display: inline_block">
+  <a href="https://github.com/Johnnyrubi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnnyrubi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyrubi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
