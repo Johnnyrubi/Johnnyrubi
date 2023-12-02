@@ -2,8 +2,6 @@ Olá, sou **Johnny Rubi**, Desenvolvedor de Software Full Stack.
 
 Eu amo ler noticias principalmente Jornais, eu devoro eles.
 
-Sou apaixonado por ensinar pessoas, e mais ainda por aprender com elas.
-
 Gosto de jogar.
 
 <!-- <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" > -->
